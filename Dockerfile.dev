@@ -1,6 +1,5 @@
 #this file is only used for development
 FROM node:alpine
-
 WORKDIR '/app'
 
 COPY package.json .
